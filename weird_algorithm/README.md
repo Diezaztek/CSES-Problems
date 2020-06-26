@@ -22,4 +22,4 @@ output: 3 10 5 16 8 4 2 1
 1.00 s
 
 ## Memory limit
-512 MB
+512 MB 
